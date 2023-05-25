@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-OnlineSubsystemSteam.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Ai\Documents\GitHub\flicker\Intermediate\Build\Win64\FlickerEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Ai\Documents\GitHub\flicker\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\UnrealEditor\Development\OnlineSubsystemSteam\Module.OnlineSubsystemSteam.cpp.obj"
+"C:\Users\Ai\Documents\GitHub\flicker\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\UnrealEditor\Development\OnlineSubsystemSteam\Module.OnlineSubsystemSteam.gen.cpp.obj"
+"C:\Users\Ai\Documents\GitHub\flicker\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\UnrealEditor\Development\OnlineSubsystemSteam\Default.rc2.res"
+/OUT:"C:\Users\Ai\Documents\GitHub\flicker\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\UnrealEditor\Development\OnlineSubsystemSteam\UnrealEditor-OnlineSubsystemSteam.lib"
